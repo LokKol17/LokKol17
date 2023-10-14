@@ -2,7 +2,7 @@
 
 > Sou um desenvolvedor backend com experiencia em desenvolvimento web com laravel e php.
 
-🔭 Recentemente tenho trabalhado em uma aplicação de comunicação.
+🔭 Recentemente tenho trabalhado em uma aplicação de streaming que usa laravel como backend.
 
 💬 Se quiser falar comigo manda um email no `lokkol1@proton.me`.
 
