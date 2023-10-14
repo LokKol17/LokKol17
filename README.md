@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Jorge Barbosa!</strong>
 
-> Sou um desenvolvedor backend com experiente em desenvolvimento web com laravel e php.
+> Sou um desenvolvedor backend com experiencia em desenvolvimento web com laravel e php.
 
 🔭 Recentemente tenho trabalhado em uma aplicação de comunicação.
 
