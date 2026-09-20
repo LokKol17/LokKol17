@@ -47,6 +47,6 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LokKol17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokKol17&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=LokKol17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LokKol17&theme=tokyonight" alt="Estatísticas detalhadas" />
 </p>
