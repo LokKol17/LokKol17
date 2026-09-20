@@ -1,20 +1,52 @@
-## 💜 Olá, meu nome é Jorge Barbosa!</strong>
+<div align="center">
 
-> Sou um desenvolvedor backend com experiencia em desenvolvimento web com laravel e php.
+  <h1>👋 Olá, eu sou o Jorge Barbosa!</h1>
 
-🔭 Recentemente tenho trabalhado em uma aplicação de streaming que usa laravel como backend.
+  <p><i>"Respeite seu Hardware e ele respeitará Você"</i></p>
 
-💬 Se quiser falar comigo manda um email no `lokkol1@proton.me`.
+  <p>Desenvolvedor focado em <b>softwares de ultra-alta performance</b>, otimização de sistemas e economia máxima de recursos de hardware.</p>
+
+  <!-- Badges de Contato e Plataformas -->
+  <a href="https://lokkol17.dev">
+    <img src="https://img.shields.io/badge/Portfolio-lokkol17.dev-7159c1?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:github@lokkie.anonaddy.me">
+    <img src="https://img.shields.io/badge/Email-github%40lokkie.anonaddy.me-ff6c37?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white" alt="Sistemas Operacionais" />
+
+</div>
+
+<br />
+
+### ⭐ Projeto em Destaque
+
+> ### 🎧 [Furinar](https://github.com/LokKol17/furinar)
+> Player de áudio standalone moderno para **Windows** e **Linux**, desenvolvido em **Rust**. Projetado para ser extremamente leve, veloz e utilizar o mínimo de RAM e processamento do seu sistema.
 
 ---
 
-## 🚀 Minhas Skills
+### 🛠️ Minha Stack Principal
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,idea,postgres,mysql,postman,redis,heroku,regex,unity,cs,js,vite,github,html,sqlite,css,md,linux,latex,git,figma,dart,docker,discord,alpinejs,vim&perline=9)](https://skillicons.dev)
+![Rust](https://img.shields.io/badge/Rust_--_my_beloved-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+### 🚀 Sobre Mim & Filosofia
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokKol17&theme=tokyonight&show_icons=true) 
+- ⚡ **Filosofia:** Otimização de código no nível do metal. Menos desperdício de ciclo de CPU, mais eficiência.
+- 💻 **Cross-Platform:** Desenvolvimento e testes focados nativamente em **Windows** e **Linux**.
+- 🛠️ **Foco Atual:** Ferramentas de sistema, áudio e utilitários leves em Rust/C++.
 
-[![Lokkol17](https://github-readme-stats.vercel.app/api/top-langs/?username=LokKol17&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LokKol17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokKol17&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</p>
