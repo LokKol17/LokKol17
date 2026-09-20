@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 Olá, eu sou o Jorge Barbosa!</h1>
+  <h1>👋 Olá, eu sou o Lok!</h1>
 
   <p><i>"Respeite seu Hardware e ele respeitará Você"</i></p>
 
