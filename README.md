@@ -1,32 +1,32 @@
 <div align="center">
 
-  <h1>👋 Olá, eu sou Jorge!</h1>
+  <h1>👋 Hi, I'm Jorge!</h1>
 
-  <p><i>"Respeite seu Hardware e ele respeitará Você"</i></p>
+  <p><i>"Respect your hardware and it will respect you"</i></p>
 
-  <p>Desenvolvedor focado em <b>softwares de ultra-alta performance</b>, otimização de sistemas e economia máxima de recursos de hardware.</p>
+  <p>Developer focused on <b>ultra-high-performance software</b>, systems optimization, and squeezing the most out of hardware resources.</p>
 
-  <!-- Badges de Contato e Plataformas -->
+  <!-- Contact and platform badges -->
   <a href="https://lokkol17.dev">
     <img src="https://img.shields.io/badge/Portfolio-lokkol17.dev-7159c1?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:github@lokkie.anonaddy.me">
     <img src="https://img.shields.io/badge/Email-github%40lokkie.anonaddy.me-ff6c37?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white" alt="Sistemas Operacionais" />
+  <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems" />
 
 </div>
 
 <br />
 
-### ⭐ Projeto em Destaque
+### ⭐ Featured Project
 
 > ### 🎧 [Furinar](https://github.com/LokKol17/furinar)
-> Player de áudio standalone moderno para **Windows** e **Linux**, desenvolvido em **Rust**. Projetado para ser extremamente leve, veloz e utilizar o mínimo de RAM e processamento do seu sistema.
+> Modern standalone audio player for **Windows** and **Linux**, built in **Rust**. Designed to be extremely light and fast, using minimal RAM and CPU.
 
 ---
 
-### 🛠️ Minha Stack Principal
+### 🛠️ Main Stack
 
 ![Rust](https://img.shields.io/badge/Rust_--_my_beloved-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -36,17 +36,18 @@
 
 ---
 
-### 🚀 Sobre Mim & Filosofia
+### 🚀 About Me & Philosophy
 
-- ⚡ **Filosofia:** Otimização de código no nível do metal. Menos desperdício de ciclo de CPU, mais eficiência.
-- 💻 **Cross-Platform:** Desenvolvimento e testes focados nativamente em **Windows** e **Linux**.
-- 🛠️ **Foco Atual:** Ferramentas de sistema, áudio e utilitários leves em Rust/C++.
+- ⚡ **Philosophy:** Optimizing code down to the metal. Fewer wasted CPU cycles, more efficiency.
+- 💻 **Cross-Platform:** Development and testing focused natively on **Windows** and **Linux**.
+- 🛠️ **Current Focus:** System tools, audio, and lightweight utilities in Rust/C++.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=LokKol17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LokKol17&theme=tokyonight" alt="Estatísticas detalhadas" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LokKol17&theme=tokyonight" alt="Detailed stats" />
 </p>
+```
